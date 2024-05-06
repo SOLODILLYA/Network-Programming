@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\bin\Debug\Client.exe.config
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\bin\Debug\Client.exe
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\bin\Debug\Client.pdb
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\obj\Debug\Client.exe
+C:\Users\solod\IT\Step\Network Programming\SocketsDemo\Client\obj\Debug\Client.pdb
