@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{364C655B-0BD9-443C-93F3-417300459C69}|ChatServer\\ChatServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\simplechat\\chatserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{364C655B-0BD9-443C-93F3-417300459C69}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2528B830-AAC2-4615-8B8D-2301DD572443}|ChatClient\\ChatClient.csproj|c:\\users\\solod\\it\\step\\network-programming\\simplechat\\chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2528B830-AAC2-4615-8B8D-2301DD572443}|ChatClient\\ChatClient.csproj|solutionrelative:chatclient\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{364C655B-0BD9-443C-93F3-417300459C69}|ChatServer\\ChatServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\simplechat\\chatserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{364C655B-0BD9-443C-93F3-417300459C69}|ChatServer\\ChatServer.csproj|solutionrelative:chatserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\ChatClient\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatClient\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\ChatClient\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatClient\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T19:01:49.081Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\ChatServer\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\ChatServer\\Form1.cs",
+              "RelativeToolTip": "ChatServer\\Form1.cs",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAQwGoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:24:47.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\ChatServer\\Form1.cs",
+              "RelativeDocumentMoniker": "ChatServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\SimpleChat\\ChatServer\\Form1.cs [Design]",
+              "RelativeToolTip": "ChatServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T16:53:40.32Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
