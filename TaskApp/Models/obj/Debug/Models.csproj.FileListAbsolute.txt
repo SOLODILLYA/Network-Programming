@@ -1,0 +1,6 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\Models.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\Models.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.pdb

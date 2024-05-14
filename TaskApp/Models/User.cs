@@ -6,7 +6,12 @@ using System.Threading.Tasks;
 
 namespace Models
 {
+    [Serializable]
     public class User
     {
+        public int Id { get; set; }
+        public string Login { get; set; }
+        public string Password { get; set; }
+        public virtual List<MyTask> MyTasks { get; set; }
     }
 }

@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace Models
 {
-    internal class MyResponse
+    [Serializable]
+    public class MyResponse
     {
+        public string Message { get; set; }
+        public List<MyTask> MyTasks { get; set; }
     }
 }
