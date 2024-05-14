@@ -55,6 +55,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="HashManager.cs" />
     <Compile Include="Migrations\202405141555018_AccountsAdded.cs" />
     <Compile Include="Migrations\202405141555018_AccountsAdded.Designer.cs">
       <DependentUpon>202405141555018_AccountsAdded.cs</DependentUpon>

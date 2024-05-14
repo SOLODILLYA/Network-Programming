@@ -1,0 +1,12 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\AuthClient.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\AuthClient.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\AuthClient.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\obj\Debug\AuthClient.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\obj\Debug\AuthClient.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\obj\Debug\AuthClient.csproj.Up2Date
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\obj\Debug\AuthClient.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\AuthApp\AuthClient\obj\Debug\AuthClient.pdb
