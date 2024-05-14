@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\taskapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\taskapp\\models\\myresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|solutionrelative:models\\myresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\taskapp\\models\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|solutionrelative:models\\myrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\taskapp\\models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EC651EA-640F-4DEB-ACFC-0928A4A92F0A}|Models\\Models.csproj|solutionrelative:models\\mytask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBD8D2BE-7BF1-4BF4-95B3-A382654E6628}|App Client\\App Client.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\taskapp\\app client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CBD8D2BE-7BF1-4BF4-95B3-A382654E6628}|App Client\\App Client.csproj|solutionrelative:app client\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9366D346-92C0-4E25-80C7-B3D50B87C819}|AppServer\\AppServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\taskapp\\appserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9366D346-92C0-4E25-80C7-B3D50B87C819}|AppServer\\AppServer.csproj|solutionrelative:appserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MyResponse.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\MyResponse.cs",
+              "RelativeDocumentMoniker": "Models\\MyResponse.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\MyResponse.cs",
+              "RelativeToolTip": "Models\\MyResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:56:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MyRequest.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\MyRequest.cs",
+              "RelativeDocumentMoniker": "Models\\MyRequest.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\MyRequest.cs",
+              "RelativeToolTip": "Models\\MyRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:56:04.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyTask.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\MyTask.cs",
+              "RelativeDocumentMoniker": "Models\\MyTask.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\MyTask.cs",
+              "RelativeToolTip": "Models\\MyTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:55:56.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:55:48.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\App Client\\Form1.cs",
+              "RelativeDocumentMoniker": "App Client\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\App Client\\Form1.cs [Design]",
+              "RelativeToolTip": "App Client\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:54:49.209Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\AppServer\\Form1.cs",
+              "RelativeDocumentMoniker": "AppServer\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\TaskApp\\AppServer\\Form1.cs [Design]",
+              "RelativeToolTip": "AppServer\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:54:17.026Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
