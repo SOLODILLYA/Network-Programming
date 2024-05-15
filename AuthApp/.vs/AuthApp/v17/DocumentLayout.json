@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\AuthApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEF6DFB9-124A-4F16-8FE0-B1F419C200B0}|AuthClient\\AuthClient.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\AuthApp\\authclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AEF6DFB9-124A-4F16-8FE0-B1F419C200B0}|AuthClient\\AuthClient.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\authapp\\authclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEF6DFB9-124A-4F16-8FE0-B1F419C200B0}|AuthClient\\AuthClient.csproj|solutionrelative:authclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\authapp\\authserver\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\AuthApp\\authserver\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\usersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\authapp\\authserver\\hashmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\AuthApp\\authserver\\hashmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD9380E7-3BF6-43D1-99D5-B479F9ED92C7}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\hashmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -53,8 +53,7 @@
               "RelativeToolTip": "AuthServer\\HashManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T17:51:02.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T17:51:02.429Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "AuthServer\\UsersDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:33:49.138Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:33:49.138Z"
             },
             {
               "$type": "Document",
@@ -122,7 +120,7 @@
               "RelativeDocumentMoniker": "AuthClient\\Program.cs",
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\AuthApp\\AuthClient\\Program.cs",
               "RelativeToolTip": "AuthClient\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAABGAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAABGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-14T15:30:15.893Z",
               "EditorCaption": ""
@@ -137,8 +135,7 @@
               "RelativeToolTip": "AuthServer\\Program.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAwE8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-14T15:29:28.731Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-14T15:29:28.731Z"
             }
           ]
         }

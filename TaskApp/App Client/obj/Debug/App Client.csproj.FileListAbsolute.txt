@@ -1,0 +1,13 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\App Client.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\App Client.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\App Client.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\Models.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\Models.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App_Client.Form1.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App_Client.Properties.Resources.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.csproj.Up2Date
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.pdb

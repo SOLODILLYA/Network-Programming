@@ -35,46 +35,53 @@ namespace App_Client
 
         private void ConnectButton_Click(object sender, EventArgs e)
         {
-            string requestKey = "AUTH";
-            string login = LoginTextBox.Text;
-            string password = PasswordTextBox.Text;
-            password = HashManager.GetHash(password);
-
-            var request = new MyRequest()
+            try
             {
-                Header = requestKey,
-                AuthUser = new User()
+                string requestKey = "AUTH";
+                string login = LoginTextBox.Text;
+                string password = PasswordTextBox.Text;
+                password = HashManager.GetHash(password);
+
+                var request = new MyRequest()
                 {
-                    Id = 0,
-                    Login = login,
-                    Password = password
+                    Header = requestKey,
+                    AuthUser = new User()
+                    {
+                        Id = 0,
+                        Login = login,
+                        Password = password
+                    }
+                };
+
+                client = new TcpClient();
+                client.Connect(ep);
+                NetworkStream ns = client.GetStream();
+                bf.Serialize(ns, request);
+
+                MyResponse response = (MyResponse)bf.Deserialize(ns);
+                string message = response.Message;
+                if (message == "OK")
+                {
+                    state = login;
+                    MessageBox.Show("Authorization successful", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                    GetTasksButton.Enabled = true;
+                    NewTaskButton.Enabled = true;
+                    EditTaskButton.Enabled = true;
+                    DeleteTaskButton.Enabled = true;
+                    ConnectButton.Enabled = false;
                 }
-            };
+                else
+                {
+                    MessageBox.Show("Authorization unsuccessful", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                }
 
-            client = new TcpClient();
-            client.Connect(ep);
-            NetworkStream ns = client.GetStream();
-            bf.Serialize(ns, request);
-
-            MyResponse response = (MyResponse)bf.Deserialize(ns);
-            string message = response.Message;
-            if(message == "OK")
+                ns.Close();
+                client.Close();
+            }catch (Exception ex)
             {
-                state = login;
-                MessageBox.Show("Authorization successful", "Information", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                GetTasksButton.Enabled = true;
-                NewTaskButton.Enabled = true;
-                EditTaskButton.Enabled = true;
-                DeleteTaskButton.Enabled = true;
-                ConnectButton.Enabled = false;
+                MessageBox.Show("Error connecting to server", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
             }
-            else
-            {
-                MessageBox.Show("Authorization successful", "Warning", MessageBoxButtons.OK, MessageBoxIcon.Warning);
-            }
-
-            ns.Close();
-            client.Close();
+            
         }
     }
 }
