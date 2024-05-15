@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\bin\Debug\UDPDemo.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\bin\Debug\UDPDemo.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\bin\Debug\UDPDemo.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\obj\Debug\UDPDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\obj\Debug\UDPDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\obj\Debug\UDPDemo.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\UDPDemo\UDPDemo\obj\Debug\UDPDemo.pdb

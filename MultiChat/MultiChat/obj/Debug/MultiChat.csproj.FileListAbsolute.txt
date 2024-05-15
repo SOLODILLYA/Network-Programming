@@ -1,0 +1,15 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\bin\Debug\MultiChat.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\bin\Debug\MultiChat.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\bin\Debug\MultiChat.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MainWindow.g.cs
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\App.g.cs
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat_MarkupCompile.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat_MarkupCompile.lref
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MainWindow.baml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.g.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.Properties.Resources.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\MultiChat\MultiChat\obj\Debug\MultiChat.pdb

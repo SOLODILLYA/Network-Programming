@@ -19,9 +19,51 @@ namespace UDPDemo
         {
             try
             {
+                Console.WriteLine("Enter Remote IP: ");
+                _remoteAddr = IPAddress.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Remote Port: ");
+                _remotePort = int.Parse(Console.ReadLine());
+                Console.WriteLine("Enter Local Port: ");
+                _localPort = int.Parse(Console.ReadLine());
+
+                Thread workingThread = new Thread(new ThreadStart(RecieveData));
+                workingThread.IsBackground = true;
+                workingThread.Start();
+                Console.ForegroundColor = ConsoleColor.Red;
                 while (true)
                 {
+                    SendData(Console.ReadLine());
+                }
+            }
+            catch(FormatException ForEx)
+            {
+                Console.WriteLine($"\n> Runtime Exception: {ForEx.Message}");
+            }
+            catch (Exception runEx)
+            {
+                Console.WriteLine($"\n> Runtime Exception: {runEx.Message}");
+            }
+            finally
+            {
+                Console.WriteLine("\n\n Finish");
+            }
+        }
 
+        private static void RecieveData() 
+        {
+            try
+            {
+                while (true)
+                {
+                    UdpClient udpClient = new UdpClient(_localPort);
+                    IPEndPoint remoteEP = null;
+                    byte[] data = udpClient.Receive(ref remoteEP);
+                    string message = Encoding.UTF8.GetString(data);
+
+                    Console.ForegroundColor = ConsoleColor.Yellow;
+                    Console.WriteLine(message);
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    udpClient.Close();
                 }
             }
             catch (SocketException sockEx)
@@ -33,8 +75,6 @@ namespace UDPDemo
                 Console.WriteLine("ReceiveData Runtime Exception" + ex.Message);
             }
         }
-
-        private static void RecieveData() { }
         private static void SendData(string message) {
             UdpClient udpClient = new UdpClient();
             IPEndPoint remoteEP = new IPEndPoint(_remoteAddr, _remotePort);
