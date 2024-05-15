@@ -4,3 +4,9 @@ C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\ob
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.csproj.CoreCompileInputs.cache
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.dll
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\Models.dll.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\Models\obj\Debug\Models.csproj.Up2Date

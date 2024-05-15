@@ -112,6 +112,7 @@
             this.GetTasksButton.TabIndex = 6;
             this.GetTasksButton.Text = "My Tasks";
             this.GetTasksButton.UseVisualStyleBackColor = true;
+            this.GetTasksButton.Click += new System.EventHandler(this.GetTasksButton_Click);
             // 
             // RegistrationButton
             // 
@@ -121,6 +122,7 @@
             this.RegistrationButton.TabIndex = 5;
             this.RegistrationButton.Text = "Registration";
             this.RegistrationButton.UseVisualStyleBackColor = true;
+            this.RegistrationButton.Click += new System.EventHandler(this.RegistrationButton_Click);
             // 
             // ConnectButton
             // 
@@ -138,6 +140,7 @@
             this.PasswordTextBox.Name = "PasswordTextBox";
             this.PasswordTextBox.Size = new System.Drawing.Size(187, 22);
             this.PasswordTextBox.TabIndex = 3;
+            this.PasswordTextBox.UseSystemPasswordChar = true;
             // 
             // label2
             // 

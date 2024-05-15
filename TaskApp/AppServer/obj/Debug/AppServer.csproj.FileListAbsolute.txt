@@ -11,3 +11,9 @@ C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\obj\Debug\AppServer.csproj.Up2Date
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\obj\Debug\AppServer.exe
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\obj\Debug\AppServer.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\bin\Debug\Models.dll.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\AppServer\obj\Debug\AppServer.Migrations.DatabaseCreated.resources

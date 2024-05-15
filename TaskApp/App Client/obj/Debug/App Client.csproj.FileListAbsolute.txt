@@ -11,3 +11,8 @@ C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Clien
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.csproj.Up2Date
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.exe
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\obj\Debug\App Client.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\Models.dll.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\TaskApp\App Client\bin\Debug\EntityFramework.SqlServer.xml
