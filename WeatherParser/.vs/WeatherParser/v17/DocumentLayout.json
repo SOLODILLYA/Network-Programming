@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherParser\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{92F21C33-5596-47C7-BD7D-DF297B9668A4}|WeatherParser\\WeatherParser.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\weatherparser\\weatherparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{92F21C33-5596-47C7-BD7D-DF297B9668A4}|WeatherParser\\WeatherParser.csproj|solutionrelative:weatherparser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherParser\\WeatherParser\\Program.cs",
+              "RelativeDocumentMoniker": "WeatherParser\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherParser\\WeatherParser\\Program.cs",
+              "RelativeToolTip": "WeatherParser\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T14:24:12.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

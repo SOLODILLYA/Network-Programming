@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\bin\Debug\WeatherParser.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\bin\Debug\WeatherParser.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\bin\Debug\WeatherParser.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\obj\Debug\WeatherParser.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\obj\Debug\WeatherParser.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherParser\WeatherParser\obj\Debug\WeatherParser.pdb
