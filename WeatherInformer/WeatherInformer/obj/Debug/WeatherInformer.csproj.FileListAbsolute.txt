@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\bin\Debug\WeatherInformer.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\bin\Debug\WeatherInformer.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\bin\Debug\WeatherInformer.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\obj\Debug\WeatherInformer.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\obj\Debug\WeatherInformer.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\obj\Debug\WeatherInformer.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WeatherInformer\obj\Debug\WeatherInformer.pdb
