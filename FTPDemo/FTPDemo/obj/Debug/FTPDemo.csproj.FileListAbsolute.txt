@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\bin\Debug\FTPDemo.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\bin\Debug\FTPDemo.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\bin\Debug\FTPDemo.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\obj\Debug\FTPDemo.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\obj\Debug\FTPDemo.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\obj\Debug\FTPDemo.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\FTPDemo\FTPDemo\obj\Debug\FTPDemo.pdb

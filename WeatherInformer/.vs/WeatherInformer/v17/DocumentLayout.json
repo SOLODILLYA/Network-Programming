@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherInformer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A14C480-5B49-4455-A167-4A53590564DE}|WeatherInformer\\WeatherInformer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\weatherinformer\\weatherinformer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8C0B7429-A870-4DE2-B743-8E38B2BCE86D}|WEatherPredictionForTommorow\\WeatherPredictionForTomorrow.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\weatherinformer\\weatherpredictionfortommorow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C0B7429-A870-4DE2-B743-8E38B2BCE86D}|WEatherPredictionForTommorow\\WeatherPredictionForTomorrow.csproj|solutionrelative:weatherpredictionfortommorow\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A14C480-5B49-4455-A167-4A53590564DE}|WeatherInformer\\WeatherInformer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherInformer\\weatherinformer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A14C480-5B49-4455-A167-4A53590564DE}|WeatherInformer\\WeatherInformer.csproj|solutionrelative:weatherinformer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,14 +24,26 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherInformer\\WEatherPredictionForTommorow\\Program.cs",
+              "RelativeDocumentMoniker": "WEatherPredictionForTommorow\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherInformer\\WEatherPredictionForTommorow\\Program.cs",
+              "RelativeToolTip": "WEatherPredictionForTommorow\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T17:48:06.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherInformer\\WeatherInformer\\Program.cs",
               "RelativeDocumentMoniker": "WeatherInformer\\Program.cs",
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\WeatherInformer\\WeatherInformer\\Program.cs",
               "RelativeToolTip": "WeatherInformer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAANAAAA",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBEAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T14:51:44.596Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-16T14:51:44.596Z"
             }
           ]
         }

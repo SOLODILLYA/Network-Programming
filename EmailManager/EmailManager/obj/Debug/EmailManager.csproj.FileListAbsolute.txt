@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EmailManager.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EmailManager.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EmailManager.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.Form1.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.Properties.Resources.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.pdb

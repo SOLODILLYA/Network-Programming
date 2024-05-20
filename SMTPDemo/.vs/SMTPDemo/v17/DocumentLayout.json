@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1FA32D-A450-44D1-838F-E55A3528C4EC}|SMTPDemo\\SMTPDemo.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\smtpdemo\\smtpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E1FA32D-A450-44D1-838F-E55A3528C4EC}|SMTPDemo\\SMTPDemo.csproj|solutionrelative:smtpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1FA32D-A450-44D1-838F-E55A3528C4EC}|SMTPDemo\\SMTPDemo.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\smtpdemo\\credentials\\password.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E1FA32D-A450-44D1-838F-E55A3528C4EC}|SMTPDemo\\SMTPDemo.csproj|solutionrelative:smtpdemo\\credentials\\password.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1FA32D-A450-44D1-838F-E55A3528C4EC}|SMTPDemo\\SMTPDemo.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\smtpdemo\\credentials\\username.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E1FA32D-A450-44D1-838F-E55A3528C4EC}|SMTPDemo\\SMTPDemo.csproj|solutionrelative:smtpdemo\\credentials\\username.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "password.txt",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\SMTPDemo\\Credentials\\password.txt",
+              "RelativeDocumentMoniker": "SMTPDemo\\Credentials\\password.txt",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\SMTPDemo\\Credentials\\password.txt",
+              "RelativeToolTip": "SMTPDemo\\Credentials\\password.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T16:41:51.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "username.txt",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\SMTPDemo\\Credentials\\username.txt",
+              "RelativeDocumentMoniker": "SMTPDemo\\Credentials\\username.txt",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\SMTPDemo\\Credentials\\username.txt",
+              "RelativeToolTip": "SMTPDemo\\Credentials\\username.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-16T16:41:39.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\SMTPDemo\\Program.cs",
+              "RelativeDocumentMoniker": "SMTPDemo\\Program.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\SMTPDemo\\SMTPDemo\\Program.cs",
+              "RelativeToolTip": "SMTPDemo\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T16:39:33.112Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

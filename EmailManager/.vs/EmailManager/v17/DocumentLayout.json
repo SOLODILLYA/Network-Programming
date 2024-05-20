@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\emailmanager\\emailmanager\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 291,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Message.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Models\\Message.cs",
+              "RelativeDocumentMoniker": "EmailManager\\Models\\Message.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Models\\Message.cs",
+              "RelativeToolTip": "EmailManager\\Models\\Message.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:58:52.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Models\\Contact.cs",
+              "RelativeDocumentMoniker": "EmailManager\\Models\\Contact.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Models\\Contact.cs",
+              "RelativeToolTip": "EmailManager\\Models\\Contact.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:58:41.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs",
+              "RelativeDocumentMoniker": "EmailManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs",
+              "RelativeToolTip": "EmailManager\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAhwAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:24:26.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs",
+              "RelativeDocumentMoniker": "EmailManager\\Form1.cs",
+              "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs [Design]",
+              "RelativeToolTip": "EmailManager\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T17:16:05.848Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

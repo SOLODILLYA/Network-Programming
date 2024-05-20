@@ -1,0 +1,7 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\bin\Debug\WEatherPredictionForTommorow.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\bin\Debug\WEatherPredictionForTommorow.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\bin\Debug\WEatherPredictionForTommorow.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\obj\Debug\WEatherPredictionForTomorrow.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\obj\Debug\WEatherPredictionForTomorrow.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\obj\Debug\WEatherPredictionForTommorow.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\WeatherInformer\WEatherPredictionForTommorow\obj\Debug\WEatherPredictionForTommorow.pdb
