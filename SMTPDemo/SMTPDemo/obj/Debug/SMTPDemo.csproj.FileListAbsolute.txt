@@ -5,3 +5,8 @@ C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.csproj.CoreCompileInputs.cache
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.exe
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\SMTPDemo\SMTPDemo\obj\Debug\SMTPDemo.csproj.Up2Date

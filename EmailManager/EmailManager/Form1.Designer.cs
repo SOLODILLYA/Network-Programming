@@ -69,7 +69,7 @@
             this.label1.AutoSize = true;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.Blue;
-            this.label1.Location = new System.Drawing.Point(157, 28);
+            this.label1.Location = new System.Drawing.Point(153, 12);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(198, 24);
             this.label1.TabIndex = 1;
@@ -79,7 +79,7 @@
             // 
             this.label2.AutoSize = true;
             this.label2.ForeColor = System.Drawing.Color.Teal;
-            this.label2.Location = new System.Drawing.Point(161, 64);
+            this.label2.Location = new System.Drawing.Point(154, 36);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(246, 13);
             this.label2.TabIndex = 2;
@@ -112,11 +112,13 @@
             // 
             // ContactsList
             // 
+            this.ContactsList.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.ContactsList.FormattingEnabled = true;
             this.ContactsList.Location = new System.Drawing.Point(157, 98);
             this.ContactsList.Name = "ContactsList";
             this.ContactsList.Size = new System.Drawing.Size(129, 21);
             this.ContactsList.TabIndex = 7;
+            this.ContactsList.SelectedIndexChanged += new System.EventHandler(this.ContactsList_SelectedIndexChanged);
             // 
             // label5
             // 
@@ -201,6 +203,7 @@
             this.SelectButton.TabIndex = 18;
             this.SelectButton.Text = "Select";
             this.SelectButton.UseVisualStyleBackColor = true;
+            this.SelectButton.Click += new System.EventHandler(this.SelectButton_Click);
             // 
             // AddButton
             // 
@@ -210,24 +213,27 @@
             this.AddButton.TabIndex = 19;
             this.AddButton.Text = "Add";
             this.AddButton.UseVisualStyleBackColor = true;
+            this.AddButton.Click += new System.EventHandler(this.AddButton_Click);
             // 
             // ClearButton
             // 
-            this.ClearButton.Location = new System.Drawing.Point(357, 309);
+            this.ClearButton.Location = new System.Drawing.Point(296, 306);
             this.ClearButton.Name = "ClearButton";
             this.ClearButton.Size = new System.Drawing.Size(55, 23);
             this.ClearButton.TabIndex = 21;
             this.ClearButton.Text = "Clear";
             this.ClearButton.UseVisualStyleBackColor = true;
+            this.ClearButton.Click += new System.EventHandler(this.ClearButton_Click);
             // 
             // SendButton
             // 
-            this.SendButton.Location = new System.Drawing.Point(296, 309);
+            this.SendButton.Location = new System.Drawing.Point(357, 306);
             this.SendButton.Name = "SendButton";
             this.SendButton.Size = new System.Drawing.Size(55, 23);
             this.SendButton.TabIndex = 20;
             this.SendButton.Text = "Send";
             this.SendButton.UseVisualStyleBackColor = true;
+            this.SendButton.Click += new System.EventHandler(this.SendButton_Click);
             // 
             // Form1
             // 

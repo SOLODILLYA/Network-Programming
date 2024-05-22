@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EmailManager.Models
 {
-    internal class Message
+    public class Message
     {
         public int Id { get; set; }
         public string Subject { get; set; }

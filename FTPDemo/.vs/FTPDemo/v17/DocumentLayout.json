@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\FTPDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\ftpdemo\\ftpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|solutionrelative:ftpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\FTPDemo\\ftpdemo\\services\\myftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|solutionrelative:ftpdemo\\services\\myftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\ftpdemo\\ftpdemo\\services\\myftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|solutionrelative:ftpdemo\\services\\myftpclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\ftpdemo\\ftpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F106569-EEFA-437F-833D-63364333EDE6}|FTPDemo\\FTPDemo.csproj|solutionrelative:ftpdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,24 +18,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 291,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MyFtpClient.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\FTPDemo\\FTPDemo\\Services\\MyFtpClient.cs",
               "RelativeDocumentMoniker": "FTPDemo\\Services\\MyFtpClient.cs",
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\FTPDemo\\FTPDemo\\Services\\MyFtpClient.cs",
               "RelativeToolTip": "FTPDemo\\Services\\MyFtpClient.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAgwHAAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHAAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-16T18:13:23.113Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\FTPDemo\\FTPDemo\\Program.cs",
               "RelativeDocumentMoniker": "FTPDemo\\Program.cs",

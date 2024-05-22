@@ -8,3 +8,9 @@ C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\Emai
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.csproj.CoreCompileInputs.cache
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.exe
 C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailMan.2A858B08.Up2Date
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\EmailManager\EmailManager\obj\Debug\EmailManager.Migrations.InitialCreate.resources
