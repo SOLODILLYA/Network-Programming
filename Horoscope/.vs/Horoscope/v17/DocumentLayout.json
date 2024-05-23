@@ -3,38 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D60FD54F-2430-4C84-87CD-64CF8E00E5FC}|Horoscope\\Horoscope.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscope\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D60FD54F-2430-4C84-87CD-64CF8E00E5FC}|Horoscope\\Horoscope.csproj|solutionrelative:horoscope\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\zodiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\horoscopserver\\zodiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\zodiac.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\zodiacdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\horoscopserver\\zodiacdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\zodiacdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Conn/True/SqlTable/dbo.Zodiacs.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\migrations\\202405231545243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\horoscopserver\\migrations\\202405231545243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\migrations\\202405231545243_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\horoscopserver\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D60FD54F-2430-4C84-87CD-64CF8E00E5FC}|Horoscope\\Horoscope.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscope\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D60FD54F-2430-4C84-87CD-64CF8E00E5FC}|Horoscope\\Horoscope.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\horoscope\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D60FD54F-2430-4C84-87CD-64CF8E00E5FC}|Horoscope\\Horoscope.csproj|solutionrelative:horoscope\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\horoscope\\horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D9F6A9E5-5837-43C4-9324-F81AC1683871}|HoroscopServer\\HoroscopServer.csproj|solutionrelative:horoscopserver\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -49,7 +49,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\Horoscope\\Form1.cs",
               "RelativeDocumentMoniker": "Horoscope\\Form1.cs",
@@ -69,8 +69,7 @@
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\Horoscope\\Form1.cs [Design]",
               "RelativeToolTip": "Horoscope\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:07:14.185Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-23T15:07:14.185Z"
             }
           ]
         },
@@ -85,8 +84,7 @@
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/Conn/True/SqlTable/dbo.Zodiacs.sql",
               "ToolTip": "dbo.Zodiacs [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-23T15:49:37.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:49:37.399Z"
             },
             {
               "$type": "Document",
@@ -98,8 +96,7 @@
               "RelativeToolTip": "HoroscopServer\\Migrations\\202405231545243_Init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:45:37.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:45:37.642Z"
             },
             {
               "$type": "Document",
@@ -111,8 +108,7 @@
               "RelativeToolTip": "HoroscopServer\\Migrations\\Configuration.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:43:42.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:43:42.294Z"
             },
             {
               "$type": "Document",
@@ -124,8 +120,7 @@
               "RelativeToolTip": "HoroscopServer\\ZodiacDb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:42:31.745Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:42:31.745Z"
             },
             {
               "$type": "Document",
@@ -137,12 +132,11 @@
               "RelativeToolTip": "HoroscopServer\\Zodiac.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:40:38.186Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-23T15:40:38.186Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\HoroscopServer\\Form1.cs",
               "RelativeDocumentMoniker": "HoroscopServer\\Form1.cs",
@@ -162,8 +156,7 @@
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\Horoscope\\HoroscopServer\\Form1.cs [Design]",
               "RelativeToolTip": "HoroscopServer\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-23T15:10:43.974Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-23T15:10:43.974Z"
             }
           ]
         }

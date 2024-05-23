@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\emaildatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\emaildatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\emailmanager\\emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -14,23 +18,19 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Contacts.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\emailmanager\\emailmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\emailmanager\\emailmanager\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\models\\message.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Messages.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\emailmanager\\emailmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\emailmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|c:\\users\\solod\\it\\step\\network-programming\\network-programming\\emailmanager\\emailmanager\\emaildatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5E6E7E15-B5F0-46F4-B191-59B5C1255B4A}|EmailManager\\EmailManager.csproj|solutionrelative:emailmanager\\emaildatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -40,11 +40,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 291,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Message.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Models\\Message.cs",
               "RelativeDocumentMoniker": "EmailManager\\Models\\Message.cs",
@@ -52,22 +52,20 @@
               "RelativeToolTip": "EmailManager\\Models\\Message.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T16:51:44.443Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:51:44.443Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "dbo.Messages [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Messages.sql",
               "ToolTip": "dbo.Messages [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-22T16:45:44.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:45:44.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Contact.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Models\\Contact.cs",
               "RelativeDocumentMoniker": "EmailManager\\Models\\Contact.cs",
@@ -75,35 +73,33 @@
               "RelativeToolTip": "EmailManager\\Models\\Contact.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T16:44:54.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T16:44:54.769Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "dbo.Contacts [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/_localdb__MSSQLLocalDB/DefaultConnection/True/SqlTable/dbo.Contacts.sql",
               "ToolTip": "dbo.Contacts [Data]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
-              "WhenOpened": "2024-05-22T15:51:24.26Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T15:51:24.26Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "EmailDatabase.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\EmailDatabase.cs",
               "RelativeDocumentMoniker": "EmailManager\\EmailDatabase.cs",
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\EmailDatabase.cs",
               "RelativeToolTip": "EmailManager\\EmailDatabase.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-22T15:40:09.539Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Program.cs",
               "RelativeDocumentMoniker": "EmailManager\\Program.cs",
@@ -111,12 +107,11 @@
               "RelativeToolTip": "EmailManager\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-22T13:50:46.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-22T13:50:46.111Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs",
               "RelativeDocumentMoniker": "EmailManager\\Form1.cs",
@@ -129,15 +124,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs",
               "RelativeDocumentMoniker": "EmailManager\\Form1.cs",
               "ToolTip": "C:\\Users\\solod\\IT\\Step\\Network-Programming\\Network-Programming\\EmailManager\\EmailManager\\Form1.cs [Design]",
               "RelativeToolTip": "EmailManager\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-16T17:16:05.848Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2024-05-16T17:16:05.848Z"
             }
           ]
         }
