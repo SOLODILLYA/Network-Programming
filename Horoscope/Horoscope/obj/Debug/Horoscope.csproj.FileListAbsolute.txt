@@ -1,0 +1,10 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\bin\Debug\Horoscope.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\bin\Debug\Horoscope.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\bin\Debug\Horoscope.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.Form1.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.Properties.Resources.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\Horoscope\obj\Debug\Horoscope.pdb

@@ -1,0 +1,16 @@
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.csproj.AssemblyReference.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.Form1.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.Properties.Resources.resources
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.csproj.GenerateResource.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.csproj.CoreCompileInputs.cache
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\HoroscopServer.exe.config
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\HoroscopServer.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\HoroscopServer.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.exe
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.pdb
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\EntityFramework.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\EntityFramework.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\Horoscop.651DE209.Up2Date
+C:\Users\solod\IT\Step\Network-Programming\Network-Programming\Horoscope\HoroscopServer\obj\Debug\HoroscopServer.Migrations.Init.resources
