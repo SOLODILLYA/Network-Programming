@@ -96,7 +96,6 @@ namespace MultiChat
                 //5 Show message
                 Dispatcher.Invoke(new Action(() =>
                 {
-
                     ChatBox.Text += mess;
                 }));
 

@@ -65,7 +65,6 @@ namespace Horoscope
 
                 _client.Shutdown(SocketShutdown.Both);
                 _client.Close();
-                timer1.Start();
             }
             catch (Exception ex)
             {
@@ -91,7 +90,6 @@ namespace Horoscope
 
                 _client.Shutdown(SocketShutdown.Both);
                 _client.Close();
-                timer1.Stop();
 
                 ZodiacBox.Clear();
                 ZodiacSign.Items.Clear();

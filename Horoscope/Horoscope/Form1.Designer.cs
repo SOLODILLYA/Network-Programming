@@ -28,7 +28,6 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.ZodiacSign = new System.Windows.Forms.ComboBox();
             this.ZodiacBox = new System.Windows.Forms.TextBox();
@@ -41,7 +40,6 @@
             this.PortTextBox = new System.Windows.Forms.TextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.IPTextBox = new System.Windows.Forms.TextBox();
-            this.timer1 = new System.Windows.Forms.Timer(this.components);
             this.SuspendLayout();
             // 
             // label1
@@ -198,7 +196,6 @@
         private System.Windows.Forms.TextBox PortTextBox;
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.TextBox IPTextBox;
-        private System.Windows.Forms.Timer timer1;
     }
 }
 
